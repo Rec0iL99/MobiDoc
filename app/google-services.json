@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "917295728868",
+    "firebase_url": "https://mobidoc-c4b59.firebaseio.com",
+    "project_id": "mobidoc-c4b59",
+    "storage_bucket": "mobidoc-c4b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917295728868:android:26c40a69e539599f",
+        "android_client_info": {
+          "package_name": "com.semicolon.mobidoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917295728868-foh0r6shupjmhffdb968bu5heeea2pji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolon.mobidoc",
+            "certificate_hash": "1316327c96cced1c446d20fda12bdedc1f6325df"
+          }
+        },
+        {
+          "client_id": "917295728868-v0i9vno2o6np4e00jf3e388dd83100tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAwcsTukg9_EyxqEyWhwWV27FbTmnrWcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917295728868-v0i9vno2o6np4e00jf3e388dd83100tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">MobiDoc</string>
+    <string-array name="parameters">
+        <item>Age</item>
+        <item>Sex</item>
+        <item>Chest Pain</item>
+        <item>Resting Blood Pressure</item>
+        <item>Serum Cholesterol</item>
+        <item>Fasting Blood Sugar Larger</item>
+        <item>Resting Electroc. Result</item>
+        <item>Maximum Heart Rate Achieved</item>
+        <item>Exercise Induced Angina</item>
+        <item>ST Depression Induc. ex.</item>
+        <item>Slope of Peak Exercise ST</item>
+        <item>Number of Major Vessel</item>
+        <item>Thalassemia</item>
+        //new ones
+        <item>Pregnancies</item>
+        <item>Glucose</item>
+        <item>Blood Pressure</item>
+        <item>Skin Thickness</item>
+        <item>Insulin</item>
+        <item>BMI</item>
+        <item>Diabetes Pedigree Function</item>
+
+
+    </string-array>
+
+    <string-array name="sexValues">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="cpValues">
+        <item>Typical Angina</item>
+        <item>Atypical Angina</item>
+        <item>Non-Anginal Pain</item>
+        <item>Asymptomatic</item>
+    </string-array>
+
+    <string-array name="fbsValues">
+        <item>Greater than 120 mg/dl</item>
+        <item>Less than 120 mg/dl</item>
+    </string-array>
+
+    <string-array name="restecgValues">
+        <item>0 Normal</item>
+        <item>1 having ST-T wave abnormality</item>
+        <item>2 Left ventricular hypertrophy</item>
+    </string-array>
+
+    <string-array name="exangValues">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="slopeValues">
+        <item>Upsloping</item>
+        <item>Flat</item>
+        <item>Downsloping</item>
+    </string-array>
+
+    <string-array name="caValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="thalValues">
+        <item>Normal</item>
+        <item>Fixed Defect</item>
+        <item>Reversable Defect</item>
+    </string-array>
+
+    <string-array name="imageValues">
+        <item>Medical CBC Report</item>
+        <item>Chest X-Ray</item>
+        <item>Breast Histopathology</item>
+    </string-array>
+</resources>

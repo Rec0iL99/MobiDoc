@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".WelcomeActivity">
+
+    <ImageView
+        android:id="@+id/welcomeLogo"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:src="@drawable/logoimage"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcomeLogo"
+        android:text="MobiDoc"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:textColor="#ffff"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:text="Your very own pocket doctor."
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:fontFamily="casual"
+        android:textColor="#ffff"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
